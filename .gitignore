@@ -1,0 +1,8 @@
+*.?#?
+*~
+reference/
+data/
+local/
+temp/
+tmp/
+cache/
