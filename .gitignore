@@ -6,3 +6,4 @@ local/
 temp/
 tmp/
 cache/
+.hg/
