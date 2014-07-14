@@ -1,0 +1,46 @@
+Payload Box:
+
+Inside dimensions:
+24x24 cm Should fit all boxes.
+
+Diagonal: 33.94 cm
+
+Elements are 15.5228x2=31.05 cm each, center-fed.
+
+Wire Diameter: 1.65 mm (~1/16 in) AWG 14 solid copper
+
+Vertical offset: 1.424 cm
+
+MMANA-GAL Wire model indicates:
+
+f0 = 432 MHz
+Zin = 148.67 ohms
+
+Balanced feed:
+http://www.mantaro.com/resources/impedance_calculator.htm#twisted_pair_impedance
+
+0.065 D wire spaced 120 mils (3.05 mm) center to center in air (er=1)
+Z0 = 146.8
+
+Hole locations marked on 24 cm foamcore square.
+
+Double sided PCB "squares" hot-glued to opposite side at corners and center.
+
+70mil drill through corner hole locations.
+110mil drill through center hole locations for insulation clearance.
+
+Hot glue aluminum foil to side with PCB squares using stripes one at a time, working from one side to the other.
+
+Carefully cut foil with sharp blade around PCB squares and edges of square and remove.
+
+Use conductive copper tape to bridge PCB copper and foil, rubbing it to adhere to PCB first then flush down PCB edge then to foil. Rub well to make good contact.
+
+Use clear plastic packaging tape to cover foil and around edges to protect it from tearing. Cover up to edge of PCB squares.
+
+Thickness to al foil ground plane is about 3.3mm
+
+Height to wire center from PCB squares: 
+1.424cm - 2.0mm (for height of PCB square) = 1.224cm
+
+Notch in 1/2" nylon spacer to 1.224cm - 0.75mm = 1.14cm
+
