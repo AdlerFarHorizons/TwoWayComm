@@ -13,34 +13,22 @@ Vertical offset: 1.424 cm
 
 MMANA-GAL Wire model indicates:
 
-f0 = 432 MHz
-Zin = 148.67 ohms
-
-Balanced feed:
-http://www.mantaro.com/resources/impedance_calculator.htm#twisted_pair_impedance
-
-0.065 D wire spaced 120 mils (3.05 mm) center to center in air (er=1)
-Z0 = 146.8
+f0 = 430.2 MHz
+Zin = 290 ohms (balanced)
 
 Hole locations marked on 24 cm foamcore square.
 
-Double sided PCB "squares" hot-glued to opposite side at corners and center.
+Double sided PCB square mounted at center to accomodate four bundled coax feeds (to form two balanced feeds) from other side.
 
 70mil drill through corner hole locations.
 110mil drill through center hole locations for insulation clearance.
 
-Hot glue aluminum foil to side with PCB squares using stripes one at a time, working from one side to the other.
+Elements cut and bent as four "U" shapes. Top leg is 3mm short of center of plate for connection to coax feed. Bottom legs should meet at center and be soldered together.
 
-Carefully cut foil with sharp blade around PCB squares and edges of square and remove.
+Height to wire center from plastic plate on both sides: 
+(3cm - ??)/2 = 
 
-Use conductive copper tape to bridge PCB copper and foil, rubbing it to adhere to PCB first then flush down PCB edge then to foil. Rub well to make good contact.
+Notch in 1/2" foamcore spacer for wire:
 
-Use clear plastic packaging tape to cover foil and around edges to protect it from tearing. Cover up to edge of PCB squares.
 
-Thickness to al foil ground plane is about 3.3mm
-
-Height to wire center from PCB squares: 
-1.424cm - 2.0mm (for height of PCB square) = 1.224cm
-
-Notch in 1/2" nylon spacer to 1.224cm - 0.75mm = 1.14cm
 
